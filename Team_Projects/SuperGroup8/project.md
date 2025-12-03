@@ -4,27 +4,20 @@ This is a sample team project that demonstrates how to structure your team's wor
 
 ## Overview
 Add your team's high level executive summary / abstract in this section
-
 Examples: 
 
-"Team ExampleAwesomeSauce analyzed the relationship between education levels and economic growth indicators using World Bank data. We found that countries with higher education attainment tend to have stronger economic performance, particularly in sectors like technology and manufacturing."
-
-"Team JobInsights built an analytical application using NextJs to visualize employment trends across different sectors and regions. The tool allows users to compare employment rates, job creation trends, and sector-specific employment data over time. It mostly works."
 
 ## Team Members
 
-- Anna Zhang
-- John Smith
-- Prema Myhren
-- Team Member
-- Team Member
+- Chris Holt
+- 
 
 
-## Challenge Category Area
+# Jobs and Youth: Challenge 8
 
 See https://www.dc2.org/datadive for details on the challenge areas. Specify which challenge category your team is addressing.
 
-EG: Category 3: Jobs and Youth
+
 
 ## Project Description
 
