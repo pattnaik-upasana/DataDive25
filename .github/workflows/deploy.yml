@@ -41,7 +41,7 @@ jobs:
       - name: Install dependencies
         run: |
           uv venv
-          uv pip install jupytext jupyter nbclient ipykernel
+          uv pip install jupytext jupyter nbclient ipykernel duckdb requests altair
 
       - name: Build site with Quarto
         run: |
