@@ -42,6 +42,8 @@ To help countries navigate this transition, Group 8 built an interactive dashboa
 
 The dashboard identifies where digital and AI job demand is rising, where supply is lagging, and which groups are being left behind. With this insight, policymakers and development teams can design targeted upskilling programs, strengthen education-to-employment pathways, and help ensure productive jobs for all.
 
+View dashboard: https://challenge-two-chi.vercel.app
+
 Learn more: SuperGroup8 - Demand & supply in digitalAI jobs: https://youtu.be/PLBH9zlmcpY
 
 
