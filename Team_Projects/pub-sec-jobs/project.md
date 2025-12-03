@@ -43,4 +43,8 @@ Users can explore gender representation across sectors, professional vs manageri
 
 ## Screenshot
 
-![Screenshot](Team_Projects/pub-sec-jobs/table4.png)
+![Screenshot](table4.png)
+
+## Code
+
+https://github.com/dime-worldbank/rpf-country-dash/tree/jobs
