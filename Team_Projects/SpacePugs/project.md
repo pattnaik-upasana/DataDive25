@@ -1,4 +1,4 @@
-# SpacePugs
+# SpacePugs   ⭐ (Winning Project)
 
 This is team SpacePug's that addresses Challenge 5: How do laws shape women's jobs and entrepreneurship?
 

@@ -1,41 +1,48 @@
 # SuperGroup8
-
-This is a sample team project that demonstrates how to structure your team's work in the DataDive repository.
+SuperGroup8 created an interactive data dashboard to help users better understand how AI is affecting job growth accross the world.
 
 ## Overview
-Add your team's high level executive summary / abstract in this section
+Over 1.2 billion young people will enter the labor force by 2030—most in developing economies. The AI revolution offers enormous potential to create new jobs, expand access, and boost innovation.
 
-Examples: 
-
-"Team ExampleAwesomeSauce analyzed the relationship between education levels and economic growth indicators using World Bank data. We found that countries with higher education attainment tend to have stronger economic performance, particularly in sectors like technology and manufacturing."
-
-"Team JobInsights built an analytical application using NextJs to visualize employment trends across different sectors and regions. The tool allows users to compare employment rates, job creation trends, and sector-specific employment data over time. It mostly works."
+To help understand these changes, group 8 built an interactive dashboard that identifies where digital and AI job demand is rising, where supply is lagging, and which groups are being left behind. It allows users to navigate multiple datasets including the World Bank’s Global Labor Database and the JOIN Benchmarking Tool. 
 
 ## Team Members
 
-- Anna Zhang
-- John Smith
-- Prema Myhren
-- Team Member
-- Team Member
+- Chris Holt
+- Paloma Bernal-Turnes
+- Miguel Angel Rodriguez
+- michael tint
+- Guy Nzeribe
+- Libert Kanojerera
+- Lincoln Chanakira
+- Pamella Nyahuma
+- Francisco Rezzonico
+- Shingirai Machaka
+- Yibralem Tesfaye
+- Sandra Tombe
+- Mark Quispe
+- Fulsundar Visha
+- Arunkkumar Karthikeyan
+- Etsegenet Hadgu
+- Sapiens Ndatabaye
+- Joy Happy
+- Lincoln Chanakira
+- Edward Ghafari
 
+## Jobs and Youth: Challenge 8
 
-## Challenge Category Area
-
-See https://www.dc2.org/datadive for details on the challenge areas. Specify which challenge category your team is addressing.
-
-EG: Category 3: Jobs and Youth
+See https://www.dc2.org/datadive for details on the challenge areas.
 
 ## Project Description
 
-Team JobInsights built an analytical application using NextJs to visualize employment trends across different sectors and regions. The tool allows users to compare employment rates, job creation trends, and sector-specific employment data over time. 
+Around the world, over 1.2 billion young people will enter the labor force by 2030—most in developing economies where work remains informal, low-productivity, and highly vulnerable to disruption. Digitalization offers enormous potential to create new jobs, expand access, and boost innovation.
 
-Specially looking at youth data it helps track  how youth education levels (15–24) will shift by 2035 across countries and scenarios, and what this implies for future skills, gender gaps, and regional winners & who may fall behind.
+To help countries navigate this transition, Group 8 built an interactive dashboard that allows users to navigate multiple datasets including the World Bank’s Global Labor Database and the JOIN Benchmarking Tool. These datasets provide harmonized labor-market indicators—employment types, sector shifts, skills, education, formality, and wages—across countries and over time. And the dashboard’s open architecture allows the easy, automatic importing of additional data. 
 
-The application is designed to be user-friendly, with interactive visualizations that allow users to filter data by country, sector, and time period. It also includes a dashboard that provides key metrics and insights about employment trends. The filters are currently semi-functional due to time constraints but will be 
-
+The dashboard identifies where digital and AI job demand is rising, where supply is lagging, and which groups are being left behind. With this insight, policymakers and development teams can design targeted upskilling programs, strengthen education-to-employment pathways, and help ensure productive jobs for all.
 
 
 ## Links:
+View dashboard: [https://challenge-two-chi.vercel.app](https://challenge-two-chi.vercel.app)
 
-slides.pdf
+[Video: SuperGroup8 - Demand & supply in digitalAI jobs](https://youtu.be/PLBH9zlmcpY)
